@@ -1,0 +1,31 @@
+.text-collor{
+    color: #4CA649;
+}
+.btn-collor{
+    background-color: #4CA649;
+}
+.logo{  
+    padding-left: 50px;
+    height: 30px;
+}
+.content{
+    margin-right: 10%;
+    margin-left: 10%;
+}
+article ul {
+    margin:0;
+    padding:0;
+    list-style-type:none;
+}
+article ul li {
+    width: 14.28%;
+    float: left;
+    margin:0 0 10px 0;
+    text-align:center;
+}
+.text{
+    color: #4D4D4D;
+}
+
+
+
