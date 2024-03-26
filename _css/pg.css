@@ -1,16 +1,31 @@
+.bg-color{
+    background-color: #F5F7FA;
+}
+.line1{
+    background-color: #F5F7FA;
+}
 .text-collor{
     color: #4CA649;
 }
 .btn-collor{
     background-color: #4CA649;
+    color:#fff;
+}
+.btn-collor:hover{
+    background-color: #51a649;
+    color:#fff;
 }
 .logo{  
     padding-left: 50px;
     height: 30px;
 }
 .content{
-    margin-right: 10%;
-    margin-left: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.content-card {
+    background-color: #4CA649;
+    padding-left: 5%;
 }
 article ul {
     margin:0;
@@ -25,6 +40,29 @@ article ul li {
 }
 .text{
     color: #4D4D4D;
+}
+.img-card{
+    height: 50px;
+    width: 50px;
+}
+.text-left{
+    padding-left: 20%;
+    text-align: left;
+}
+.group a{
+    text-decoration: none;
+    text-align: center;
+}
+.group ul{
+    margin:0;
+    padding:0;
+    list-style-type:none;
+}
+
+.group ul li{
+    float: left;
+    padding-right: 6%;
+    text-align:center;
 }
 
 
