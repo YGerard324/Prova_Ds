@@ -64,6 +64,25 @@ article ul li {
     padding-right: 6%;
     text-align:center;
 }
-
+footer{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color: #263238;
+    font-family: "Oswald", sans-serif;
+    color: #fff;
+    font-size: 10   px;
+    font-weight: semi-bold;
+    /* padding: 0px; */
+}
+.footer_icons{
+    margin-left:30%;
+    padding:0;
+    list-style-type:none;
+}
+.footer_icons li{
+    float: left;
+    padding-right: 2%;
+    text-align:center;
+}
 
 
