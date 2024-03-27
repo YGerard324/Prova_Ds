@@ -19,13 +19,18 @@
     padding-left: 50px;
     height: 30px;
 }
+.carousel-indicators{
+    border-radius: 100%;
+    color: #4CA649;
+}
 .content{
+    padding-top: 2.5%;
     padding-left: 5%;
     padding-right: 5%;
+    padding-bottom: 2.5%;
 }
-.content-card {
-    background-color: #4CA649;
-    padding-left: 5%;
+.card_grid{
+    margin-left: 23%;
 }
 article ul {
     margin:0;
@@ -64,6 +69,25 @@ article ul li {
     padding-right: 6%;
     text-align:center;
 }
+.card{
+    box-shadow: -5px 20px 43px -30px rgba(0,0,0,0.75);
+}
+
+.content_cards{
+    padding-bottom: 7%;
+    padding-top: 3%;
+}
+.content_cards a{
+    text-decoration: none;
+    text-align: center;
+}
+
+.final_content{
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    
+}
+
 footer{
     padding-top: 5%;
     padding-bottom: 5%;
@@ -83,6 +107,9 @@ footer{
     float: left;
     padding-right: 2%;
     text-align:center;
+}
+.form-footer{
+    padding-left: 10%;
 }
 
 
